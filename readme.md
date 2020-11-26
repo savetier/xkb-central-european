@@ -16,8 +16,10 @@ The easiest way to install this layout is to to download the file 'ce' and renam
 
 For example:
 
-wget https://raw.githubusercontent.com/savetier/savetier-central-european-keyboard-layout/main/ce
-sudo mv ce /usr/share/X11/xkb/symbols/at
+	wget https://raw.githubusercontent.com/savetier/savetier-central-european-keyboard-layout/main/ce
+
+	sudo mv ce /usr/share/X11/xkb/symbols/at
+
 (Change 'at' in the end to the one you want to replace)
 
 
