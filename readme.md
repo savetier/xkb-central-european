@@ -3,7 +3,7 @@ An alternative QWERTZ keyboard layout for XKB
 
 This is the layout I wrote several years ago, and it has always served me well. I thought it was time to share it with you.
 
-Suitable for polyglots, language freaks, Slavs, Magyars, Romanians, linguists.
+Suitable for polyglots, language freaks, Slavs, Slavists, Magyars, Romanians, linguists, and more!
 
 Languages you can write with this layout without switching:
 German, English, Hungarian, Polish, Slovak, Czech, Slovene, Croatian, Serbian, Bosnian, Montenegrine, Łacinka, Romanian
