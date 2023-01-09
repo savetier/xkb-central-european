@@ -10,7 +10,7 @@ German, English, Hungarian, Polish, Slovak, Czech, Slovene, Croatian, Serbian, B
 
 ![SavetierCE](https://raw.githubusercontent.com/savetier/savetier-central-european-keyboard-layout/main/savetierX.png)
 
-# Install (on Ubuntu)
+# Install (tested on Ubuntu and Manjaro)
 
 The easiest way to install this layout is to to download the file 'ce' and rename it to your standard layout or one you would never use (I renamed it to 'at') and replace this file in the /usr/share/X11/xkb/symbols folder. After that you simply need to add the Austrian (or whichever you have chosen) layout to your keyboard layout profile. 
 
