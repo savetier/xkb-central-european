@@ -5,7 +5,7 @@ This is the layout I wrote several years ago, and it has always served me well. 
 
 Suitable for polyglots, language freaks, Slavs, slavists, Magyars, Romanians, linguists, and more!
 
-Languages you can write with this layout without switching:
+You can write with this layout without switching:
 German, English, Hungarian, Polish, Slovak, Czech, Slovene, Croatian, Serbian, Bosnian, Montenegrine, Łacinka, Romanian, Turkish
 
 ![SavetierCE](https://raw.githubusercontent.com/savetier/savetier-central-european-keyboard-layout/main/savetierX.png)
