@@ -1,4 +1,4 @@
-# savetier-central-european-keyboard-layout
+# Savetier's Central European Keyboard Layout
 An alternative QWERTZ keyboard layout for XKB
 
 This is the layout I wrote several years ago, and it has always served me well. I thought it was time to share it with you.
