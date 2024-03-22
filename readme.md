@@ -21,7 +21,3 @@ For example:
 	sudo mv ce /usr/share/X11/xkb/symbols/at
 
 (Change 'at' in the end to the one you want to replace)
-
-
-
-In case you have any suggestions, don't hesitate to let me know :-)
