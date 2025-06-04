@@ -8,7 +8,7 @@ Suitable for polyglots, language freaks, Slavs, slavists, Magyars, Romanians, li
 You can write with this layout without switching:
 German, English, Hungarian, Polish, Slovak, Czech, Slovene, Croatian, Serbian, Bosnian, Montenegrine, Łacinka, Romanian, Turkish
 
-![SavetierCE](https://raw.githubusercontent.com/savetier/savetier-central-european-keyboard-layout/main/savetierX.png)
+![xkb-central-european](https://raw.githubusercontent.com/savetier/xkb-central-european/refs/heads/main/xkb-central-european.png)
 
 # Install
 
